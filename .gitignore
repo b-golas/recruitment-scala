@@ -2,7 +2,4 @@
 *.log
 *.idea
 **target
-**metastore_db
-**spark-warehouse
-build.properties
 .bsp
